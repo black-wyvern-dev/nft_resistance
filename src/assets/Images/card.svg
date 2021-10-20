@@ -1,0 +1,8 @@
+<svg id="card" xmlns="http://www.w3.org/2000/svg" width="267" height="345" viewBox="0 0 267 345">
+  <g id="Path_21" data-name="Path 21" fill="none">
+    <path d="M267,0H21.176L0,20.769V345H246.256L267,324.647Z" stroke="none"/>
+    <path d="M 21.58448791503906 0.999969482421875 L 1 21.1885986328125 L 1 344 L 245.8469696044922 344 L 266 324.2276916503906 L 266 0.999969482421875 L 21.58448791503906 0.999969482421875 M 21.1759033203125 -3.0517578125e-05 L 267 -3.0517578125e-05 L 267 324.6474914550781 L 246.2555847167969 345 L 0 345 L 0 20.7686767578125 L 21.1759033203125 -3.0517578125e-05 Z" stroke="none" fill="#05fefd"/>
+  </g>
+  <path id="Path_22" data-name="Path 22" d="M16,0H4V12Z" transform="translate(-4)" fill="#05fefd"/>
+  <path id="Path_23" data-name="Path 23" d="M4,12H16V0Z" transform="translate(251 333)" fill="#05fefd"/>
+</svg>

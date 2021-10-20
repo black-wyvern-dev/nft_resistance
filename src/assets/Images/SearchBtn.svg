@@ -1,0 +1,306 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="133" height="52" viewBox="0 0 133 52">
+  <defs>
+    <clipPath id="clip-path">
+      <rect y="10" width="52" height="8" fill="none"/>
+    </clipPath>
+    <filter id="Path_68" x="0" y="3.975" width="133" height="48.025" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.49"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.856" y1="-0.046" x2="-0.542" y2="1.521" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.902" y1="-0.068" x2="0.258" y2="1.194" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="SearchBtn" transform="translate(-1414.245 -127)">
+    <g id="Scroll_Group_3" data-name="Scroll Group 3" transform="translate(1516 145) rotate(180)" opacity="0.54" clip-path="url(#clip-path)" style="isolation: isolate">
+      <g id="Group_85" data-name="Group 85" transform="translate(-1393 8.663)">
+        <circle id="Ellipse_12" data-name="Ellipse 12" cx="2.5" cy="2.5" r="2.5" transform="translate(1393 4.337)" fill="#02b2b2"/>
+        <circle id="Ellipse_13" data-name="Ellipse 13" cx="2.5" cy="2.5" r="2.5" transform="translate(1400 4.337)" fill="#02b2b2"/>
+        <circle id="Ellipse_14" data-name="Ellipse 14" cx="2.5" cy="2.5" r="2.5" transform="translate(1406 4.337)" fill="#02b2b2"/>
+        <circle id="Ellipse_15" data-name="Ellipse 15" cx="2.5" cy="2.5" r="2.5" transform="translate(1440 4.337)" fill="#02b2b2"/>
+        <line id="Line_107" data-name="Line 107" y2="6.866" transform="translate(1395.472)" fill="none" stroke="#00fffe" stroke-linecap="round" stroke-width="3"/>
+        <line id="Line_108" data-name="Line 108" y2="6.866" transform="translate(1402.5 -0.028)" fill="none" stroke="#00fffe" stroke-linecap="round" stroke-width="3"/>
+        <path id="Path_73" data-name="Path 73" d="M-.15-.037V6.829" transform="translate(1408.654)" fill="none" stroke="#00fffe" stroke-linecap="round" stroke-width="3"/>
+        <path id="Path_74" data-name="Path 74" d="M-.215-.011V6.855" transform="translate(1442.708)" fill="none" stroke="#00fffe" stroke-linecap="round" stroke-width="3"/>
+      </g>
+    </g>
+    <rect id="Rectangle_37" data-name="Rectangle 37" width="3" height="2" transform="translate(1535.77 138.061) rotate(-45)" fill="#11b0b1"/>
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="3" height="2" transform="translate(1424.366 139.475) rotate(-135)" fill="#11b0b1"/>
+    <rect id="Rectangle_38" data-name="Rectangle 38" width="3" height="2" transform="translate(1537.123 164.464) rotate(45)" fill="#11b0b1"/>
+    <rect id="Rectangle_39" data-name="Rectangle 39" width="3" height="2" transform="translate(1425.841 165.879) rotate(135)" fill="#11b0b1"/>
+    <rect id="Rectangle_36" data-name="Rectangle 36" width="109" height="37" transform="translate(1426.245 133.5)" fill="#12b8b9"/>
+    <rect id="Rectangle_35" data-name="Rectangle 35" width="121" height="24" transform="translate(1420.245 140)" fill="#12b8b9"/>
+    <g transform="matrix(1, 0, 0, 1, 1414.25, 127)" filter="url(#Path_68)">
+      <g id="Path_68-2" data-name="Path 68" transform="translate(9 10)" fill="#31fafc">
+        <path d="M 112.3921890258789 29.50000381469727 L 2.64637279510498 29.50000381469727 L 0.5 27.39911079406738 L 0.5 2.462512731552124 L 2.451422214508057 0.4750649034976959 L 112.738166809082 0.5156182646751404 L 114.4796524047852 2.291941165924072 L 114.4998321533203 27.40178871154785 L 112.3921890258789 29.50000381469727 Z" stroke="none"/>
+        <path d="M 2.661140441894531 0.9751415252685547 L 1 2.666959762573242 L 1 27.18888092041016 L 2.850326538085938 29.00000381469727 L 112.1857223510742 29.00000381469727 L 113.9996643066406 27.19417190551758 L 113.9798202514648 2.496341705322266 L 112.5280609130859 1.015541076660156 L 2.661140441894531 0.9751415252685547 M 2.241691589355469 -0.02501296997070312 L 112.9482498168945 0.01569557189941406 L 114.9794921875 2.08757209777832 L 115 27.60937309265137 L 112.5986328125 30.00000381469727 L 2.4423828125 30.00000381469727 L 0 27.60937309265137 L 0 2.258079528808594 L 2.241691589355469 -0.02501296997070312 Z" stroke="none" fill="#31fafc"/>
+      </g>
+    </g>
+    <g id="Group_81" data-name="Group 81" transform="translate(0 -5)">
+      <g id="Group_75" data-name="Group 75">
+        <g id="Group_73" data-name="Group 73" transform="translate(21 -12.119)">
+          <line id="Line_101" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+        <g id="Group_74" data-name="Group 74" transform="translate(30.66 -12.119)">
+          <line id="Line_101-2" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-2" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-2" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-2" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-2" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-2" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_77" data-name="Group 77" transform="translate(-38)">
+        <g id="Group_73-2" data-name="Group 73" transform="translate(21 -12.119)">
+          <line id="Line_101-3" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-3" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-3" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-3" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-3" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-3" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+        <g id="Group_74-2" data-name="Group 74" transform="translate(30.66 -12.119)">
+          <line id="Line_101-4" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-4" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-4" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-4" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-4" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-4" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_76" data-name="Group 76" transform="translate(-19)">
+        <g id="Group_73-3" data-name="Group 73" transform="translate(21 -12.119)">
+          <line id="Line_101-5" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-5" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-5" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-5" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-5" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-5" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+        <g id="Group_74-3" data-name="Group 74" transform="translate(30.66 -12.119)">
+          <line id="Line_101-6" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-6" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-6" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-6" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-6" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-6" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_78" data-name="Group 78" transform="translate(-57)">
+        <g id="Group_73-4" data-name="Group 73" transform="translate(21 -12.119)">
+          <line id="Line_101-7" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-7" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-7" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-7" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-7" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-7" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+        <g id="Group_74-4" data-name="Group 74" transform="translate(30.66 -12.119)">
+          <line id="Line_101-8" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-8" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-8" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-8" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-8" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-8" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_79" data-name="Group 79" transform="translate(-76)">
+        <g id="Group_73-5" data-name="Group 73" transform="translate(21 -12.119)">
+          <line id="Line_101-9" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-9" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-9" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-9" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-9" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-9" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+        <g id="Group_74-5" data-name="Group 74" transform="translate(30.66 -12.119)">
+          <line id="Line_101-10" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-10" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-10" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-10" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-10" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-10" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_80" data-name="Group 80" transform="translate(-94.874)">
+        <g id="Group_74-6" data-name="Group 74" transform="translate(30.66 -12.119)">
+          <line id="Line_101-11" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-11" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-11" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-11" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-11" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-11" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_83" data-name="Group 83" transform="translate(1680.245 -1369.203) rotate(90)">
+      <g id="Group_75-2" data-name="Group 75">
+        <g id="Group_73-6" data-name="Group 73" transform="translate(21 -12.119)">
+          <line id="Line_101-12" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-12" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-12" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-12" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-12" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-12" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+        <g id="Group_74-7" data-name="Group 74" transform="translate(30.66 -12.119)">
+          <line id="Line_101-13" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-13" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-13" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-13" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-13" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-13" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_76-2" data-name="Group 76" transform="translate(-19)">
+        <g id="Group_74-8" data-name="Group 74" transform="translate(30.66 -12.119)">
+          <line id="Line_101-14" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-14" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-14" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_84" data-name="Group 84" transform="translate(1563.245 -1369.203) rotate(90)">
+      <g id="Group_75-3" data-name="Group 75">
+        <g id="Group_73-7" data-name="Group 73" transform="translate(21 -12.119)">
+          <line id="Line_101-15" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-14" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-15" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-15" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-14" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-14" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+        <g id="Group_74-9" data-name="Group 74" transform="translate(30.66 -12.119)">
+          <line id="Line_101-16" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-15" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-16" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-16" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-15" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-15" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_76-3" data-name="Group 76" transform="translate(-19)">
+        <g id="Group_74-10" data-name="Group 74" transform="translate(30.66 -12.119)">
+          <line id="Line_101-17" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-17" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-17" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_82" data-name="Group 82" transform="translate(0 27)">
+      <g id="Group_75-4" data-name="Group 75">
+        <g id="Group_73-8" data-name="Group 73" transform="translate(21 -12.119)">
+          <line id="Line_101-18" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-16" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-18" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-18" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-16" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-16" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+        <g id="Group_74-11" data-name="Group 74" transform="translate(30.66 -12.119)">
+          <line id="Line_101-19" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-17" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-19" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-19" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-17" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-17" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_77-2" data-name="Group 77" transform="translate(-38)">
+        <g id="Group_73-9" data-name="Group 73" transform="translate(21 -12.119)">
+          <line id="Line_101-20" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-18" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-20" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-20" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-18" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-18" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+        <g id="Group_74-12" data-name="Group 74" transform="translate(30.66 -12.119)">
+          <line id="Line_101-21" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-19" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-21" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-21" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-19" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-19" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_76-4" data-name="Group 76" transform="translate(-19)">
+        <g id="Group_73-10" data-name="Group 73" transform="translate(21 -12.119)">
+          <line id="Line_101-22" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-20" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-22" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-22" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-20" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-20" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+        <g id="Group_74-13" data-name="Group 74" transform="translate(30.66 -12.119)">
+          <line id="Line_101-23" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-21" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-23" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-23" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-21" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-21" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_78-2" data-name="Group 78" transform="translate(-57)">
+        <g id="Group_73-11" data-name="Group 73" transform="translate(21 -12.119)">
+          <line id="Line_101-24" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-22" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-24" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-24" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-22" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-22" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+        <g id="Group_74-14" data-name="Group 74" transform="translate(30.66 -12.119)">
+          <line id="Line_101-25" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-23" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-25" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-25" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-23" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-23" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_79-2" data-name="Group 79" transform="translate(-76)">
+        <g id="Group_73-12" data-name="Group 73" transform="translate(21 -12.119)">
+          <line id="Line_101-26" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-24" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-26" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-26" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-24" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-24" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+        <g id="Group_74-15" data-name="Group 74" transform="translate(30.66 -12.119)">
+          <line id="Line_101-27" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-25" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-27" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-27" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-25" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-25" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_80-2" data-name="Group 80" transform="translate(-94.874)">
+        <g id="Group_74-16" data-name="Group 74" transform="translate(30.66 -12.119)">
+          <line id="Line_101-28" data-name="Line 101" x2="1.887" transform="translate(1500.34 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_102-26" data-name="Line 102" x2="1.887" transform="translate(1495.619 152.231) rotate(90)" fill="none" stroke="#119597" stroke-linecap="round" stroke-width="0.5"/>
+          <line id="Line_103-28" data-name="Line 103" x2="1" transform="translate(1500.84 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_104-28" data-name="Line 104" x2="1" transform="translate(1500.84 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_105-26" data-name="Line 105" x2="1" transform="translate(1496.119 154.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+          <line id="Line_106-26" data-name="Line 106" x2="1" transform="translate(1496.119 152.119) rotate(180)" fill="none" stroke="#31fafc" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <path id="Intersection_17" data-name="Intersection 17" d="M76.711,40,87.654,11h2L78.711,40Z" transform="translate(1440.195 127.113)" fill="url(#linear-gradient)"/>
+    <path id="Intersection_18" data-name="Intersection 18" d="M6.939,40l-1.53-1.334L15.849,11h12L16.906,40Z" transform="translate(1424 127.113)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_90" data-name="Path 90" d="M.123,0V-1.846h7.84A1.119,1.119,0,0,0,9.229-3.111v-1.74q.009-1.213-1.266-1.213H2.769A2.463,2.463,0,0,1,0-8.868l.009-1.283A2.452,2.452,0,0,1,2.777-12.92h8.2v1.846H3.05q-1.2,0-1.2,1.151v.844q0,1.213,1.169,1.213H8.306q2.777,0,2.777,2.566v2.522A2.464,2.464,0,0,1,8.306,0ZM23.59-1.846V0H16.611a2.453,2.453,0,0,1-2.769-2.716V-6.46a2.452,2.452,0,0,1,2.769-2.769h4.623q2.742.018,2.769,2.3v2.883H16.7V-5.924h5.449l.009-.765q-.009-.694-.923-.694h-4.14q-1.406,0-1.406,1.318v2.856q0,1.371,1.248,1.362Zm3.489-5.546V-9.229H33.53q2.76,0,2.777,2.707V0h-7.6q-2.549,0-2.549-2.3V-3.577a2.083,2.083,0,0,1,2.355-2.347H33.39v1.846H29.329Q28-4.078,27.993-3H28q0,1.151,1.23,1.151h5.229l-.009-4.087q0-1.459-1.239-1.459ZM38.452,0V-6.5A2.437,2.437,0,0,1,41.221-9.22h3.735V-7.4H41.511A1.06,1.06,0,0,0,40.3-6.249V0ZM55.986-1.854V0H49.544q-2.76-.018-2.769-2.839V-6.521a2.43,2.43,0,0,1,2.76-2.707h6.451v1.784H49.834q-1.2,0-1.213,1.318v2.865q0,1.4,1.6,1.406Zm4.1-7.374h5.484A2.476,2.476,0,0,1,68.379-6.46V.018H66.533V-6.064q0-1.318-1.213-1.318l-5.256-.009V-.009H58.228V-12.92h1.854Z" transform="translate(1445.5 158)"/>
+  </g>
+</svg>

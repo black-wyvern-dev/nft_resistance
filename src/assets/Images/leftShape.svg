@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="17" viewBox="0 0 65 17">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="-16" y="1" width="65" height="17" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="left_shape" data-name="left shape" transform="translate(16 -1)" opacity="0.32" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="Group_19" data-name="Group 19" transform="translate(-1409 1)">
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="4.5" cy="4.5" r="4.5" transform="translate(1393 8)" fill="#02b2b2"/>
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="4.5" cy="4.5" r="4.5" transform="translate(1405 8)" fill="#02b2b2"/>
+      <circle id="Ellipse_11" data-name="Ellipse 11" cx="4.5" cy="4.5" r="4.5" transform="translate(1449 8)" fill="#02b2b2"/>
+      <line id="Line_50" data-name="Line 50" y2="12.5" transform="translate(1397.5)" fill="none" stroke="#00fffe" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_51" data-name="Line 51" y2="12.5" transform="translate(1409.5)" fill="none" stroke="#00fffe" stroke-linecap="round" stroke-width="5"/>
+      <line id="Line_53" data-name="Line 53" y2="12.5" transform="translate(1453.5)" fill="none" stroke="#00fffe" stroke-linecap="round" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="108.61" height="44.5" viewBox="0 0 108.61 44.5">
+  <defs>
+    <filter id="Path_8" x="0" y="0.5" width="108.61" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.38"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_20" x="0" y="1.5" width="108.61" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.38"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.856" y1="-0.046" x2="-0.542" y2="1.521" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.902" y1="-0.068" x2="0.258" y2="1.194" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="PlayBtn" transform="translate(-905.695 -56)">
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="100" height="19" transform="translate(910 66)" fill="#00cecd"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="70" height="35" transform="translate(926 58)" fill="#00cecd"/>
+    <g id="Path_10" data-name="Path 10" transform="translate(900.021 56.017)" fill="none">
+      <path d="M12.817,2h94.389l2.752,2.575V34.721l-2.806,2.246H12.93L10,34.41V4.573Z" stroke="none"/>
+      <path d="M 13.01119995117188 2.499996185302734 L 10.5 4.793582916259766 L 10.5 34.18273162841797 L 13.11730194091797 36.46671676635742 L 106.9766235351562 36.46671676635742 L 109.4584808349609 34.48087310791016 L 109.4584808349609 4.791942596435547 L 107.0092010498047 2.499996185302734 L 13.01119995117188 2.499996185302734 M 12.81722259521484 1.999996185302734 L 107.2066650390625 1.999996185302734 L 109.9584808349609 4.575050354003906 L 109.9584808349609 34.72116851806641 L 107.1520538330078 36.96671676635742 L 12.9298095703125 36.96671676635742 L 10 34.4100227355957 L 10 4.573089599609375 L 12.81722259521484 1.999996185302734 Z" stroke="none" fill="#00d0cf"/>
+    </g>
+    <g id="Group_14" data-name="Group 14" transform="translate(-10 -1)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="1" cy="1" r="1" transform="translate(918 57)" fill="#00cecd"/>
+      <path id="Path_11" data-name="Path 11" d="M.362,1.158l1.779.055v.281L.362,1.439Z" transform="translate(919.047 56.191) rotate(45)" fill="#007575"/>
+    </g>
+    <g id="Group_15" data-name="Group 15" transform="translate(1010 56)">
+      <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="1" cy="1" r="1" fill="#00cecd"/>
+      <path id="Path_11-2" data-name="Path 11" d="M0,.336,1.779.281V0L0,.055Z" transform="translate(1.754 0.504) rotate(135)" fill="#007575"/>
+    </g>
+    <g id="Group_13" data-name="Group 13" transform="translate(-10 1)">
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="1" cy="1" r="1" transform="translate(918 92)" fill="#00cecd"/>
+      <path id="Path_12" data-name="Path 12" d="M0,.336,1.779.281V0L0,.055Z" transform="translate(918.246 93.523) rotate(-45)" fill="#007575"/>
+    </g>
+    <g id="Group_16" data-name="Group 16" transform="translate(1010 93)">
+      <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="1" cy="1" r="1" fill="#00cecd"/>
+      <path id="Path_12-2" data-name="Path 12" d="M0,0,1.779.055V.336L0,.281Z" transform="translate(1.516 1.761) rotate(-135)" fill="#007575"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="96" height="19" transform="translate(-98 -27)" fill="#06a5a4"/>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(911.963 69.5)">
+      <line id="Line_1" data-name="Line 1" x2="6.774" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_2" data-name="Line 2" x2="6.774" transform="translate(0 2)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_3" data-name="Line 3" x2="6.774" transform="translate(0 5)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_4" data-name="Line 4" x2="6.774" transform="translate(0 11)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_5" data-name="Line 5" x2="6.774" transform="translate(0 13)" fill="none" stroke="#00fffe" stroke-width="1"/>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(1001.262 69.5)">
+      <line id="Line_7" data-name="Line 7" x2="6.774" transform="translate(0 13)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_8" data-name="Line 8" x2="6.774" transform="translate(0 11)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_6" data-name="Line 6" x2="6.774" transform="translate(0 8)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_9" data-name="Line 9" x2="6.774" transform="translate(0 2)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_10" data-name="Line 10" x2="6.774" fill="none" stroke="#00fffe" stroke-width="1"/>
+    </g>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="70" height="31" transform="translate(926 60)" fill="#06a5a4"/>
+    <g id="Group_7" data-name="Group 7" transform="translate(928.899 65.5) rotate(-90)">
+      <line id="Line_7-2" data-name="Line 7" x2="5.5" transform="translate(0 16.012)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_8-2" data-name="Line 8" x2="5.5" transform="translate(0 13.549)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_6-2" data-name="Line 6" x2="5.5" transform="translate(0 9.854)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_9-2" data-name="Line 9" x2="5.5" transform="translate(0 2.463)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_10-2" data-name="Line 10" x2="5.5" transform="translate(0 0)" fill="none" stroke="#00fffe" stroke-width="1"/>
+    </g>
+    <g id="Group_10" data-name="Group 10" transform="translate(928.899 91) rotate(-90)">
+      <line id="Line_7-3" data-name="Line 7" x2="5.5" transform="translate(0 16.012)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_8-3" data-name="Line 8" x2="5.5" transform="translate(0 13.549)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_6-3" data-name="Line 6" x2="5.5" transform="translate(0 9.854)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_9-3" data-name="Line 9" x2="5.5" transform="translate(0 2.463)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_10-3" data-name="Line 10" x2="5.5" transform="translate(0 0)" fill="none" stroke="#00fffe" stroke-width="1"/>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(949.838 65.5) rotate(-90)">
+      <line id="Line_7-4" data-name="Line 7" x2="5.5" transform="translate(0 16.012)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_8-4" data-name="Line 8" x2="5.5" transform="translate(0 13.549)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_6-4" data-name="Line 6" x2="5.5" transform="translate(0 9.854)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_9-4" data-name="Line 9" x2="5.5" transform="translate(0 2.463)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_10-4" data-name="Line 10" x2="5.5" transform="translate(0 0)" fill="none" stroke="#00fffe" stroke-width="1"/>
+    </g>
+    <g id="Group_11" data-name="Group 11" transform="translate(949.838 91) rotate(-90)">
+      <line id="Line_7-5" data-name="Line 7" x2="5.5" transform="translate(0 16.012)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_8-5" data-name="Line 8" x2="5.5" transform="translate(0 13.549)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_6-5" data-name="Line 6" x2="5.5" transform="translate(0 9.854)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_9-5" data-name="Line 9" x2="5.5" transform="translate(0 2.463)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_10-5" data-name="Line 10" x2="5.5" transform="translate(0 0)" fill="none" stroke="#00fffe" stroke-width="1"/>
+    </g>
+    <g id="Group_9" data-name="Group 9" transform="translate(975.704 65.5) rotate(-90)">
+      <line id="Line_7-6" data-name="Line 7" x2="5.5" transform="translate(0 16.012)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_8-6" data-name="Line 8" x2="5.5" transform="translate(0 13.549)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_6-6" data-name="Line 6" x2="5.5" transform="translate(0 9.854)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_9-6" data-name="Line 9" x2="5.5" transform="translate(0 2.463)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_10-6" data-name="Line 10" x2="5.5" transform="translate(0 0)" fill="none" stroke="#00fffe" stroke-width="1"/>
+    </g>
+    <g id="Group_12" data-name="Group 12" transform="translate(975.704 91) rotate(-90)">
+      <line id="Line_7-7" data-name="Line 7" x2="5.5" transform="translate(0 16.012)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_8-7" data-name="Line 8" x2="5.5" transform="translate(0 13.549)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_6-7" data-name="Line 6" x2="5.5" transform="translate(0 9.854)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_9-7" data-name="Line 9" x2="5.5" transform="translate(0 2.463)" fill="none" stroke="#00fffe" stroke-width="1"/>
+      <line id="Line_10-7" data-name="Line 10" x2="5.5" transform="translate(0 0)" fill="none" stroke="#00fffe" stroke-width="1"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 905.7, 56)" filter="url(#Path_8)">
+      <path id="Path_8-2" data-name="Path 8" d="M12.638,3h88.395l2.577,2.412V29.9L100.982,32H12.744L10,29.606V5.41Z" transform="translate(-2.5 2)" fill="#b1ffff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 905.7, 56)" filter="url(#Path_20)">
+      <path id="Path_20-2" data-name="Path 20" d="M12.638,4h88.395l2.577,1.412V29.9L100.982,32H12.744L10,29.606V5.41Z" transform="translate(-2.5 2)" fill="#00fffe"/>
+    </g>
+    <path id="Intersection_6" data-name="Intersection 6" d="M76.711,40,87.654,11h2L78.711,40Z" transform="translate(913.195 50)" fill="url(#linear-gradient)"/>
+    <path id="Intersection_7" data-name="Intersection 7" d="M6.939,40l-1.53-1.334L15.849,11h12L16.906,40Z" transform="translate(909 50)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_47" data-name="Path 47" d="M1.846-.018H.009v-12.9h8.3q2.751.026,2.769,3.067v1.011A2.465,2.465,0,0,1,8.306-6.064H2.865v-1.8h5.08q1.283,0,1.283-1.081V-9.9a1.057,1.057,0,0,0-1.213-1.178H1.846ZM12.92-12.92h1.846V0H12.92Zm4.9,5.528V-9.229h6.451q2.76,0,2.777,2.707V0h-7.6Q16.9,0,16.9-2.3V-3.577a2.083,2.083,0,0,1,2.355-2.347h4.878v1.846H20.074q-1.327,0-1.336,1.081h.009q0,1.151,1.23,1.151h5.229L25.2-5.933q0-1.459-1.239-1.459ZM31.052-9.229V-3.1a1.14,1.14,0,0,0,1.292,1.266h4.14V0H31.966A2.434,2.434,0,0,1,29.2-2.707V-9.229Zm8.314,0V.923A2.466,2.466,0,0,1,36.6,3.691H31.052V1.846h5.256q1.2-.009,1.213-1.16V-9.229Z" transform="translate(941 81)"/>
+  </g>
+</svg>
