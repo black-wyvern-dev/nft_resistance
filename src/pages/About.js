@@ -4,9 +4,15 @@ import wallBackground from '../assets/Images/About/About_Back2.png';
 import shineBackground from '../assets/Images/About/About_Back.png';
 import cityBackground from '../assets/Images/About/About_Back3.png';
 import runnerBackground from '../assets/Images/About/About_Back4.png';
+import twitter from '../assets/Images/About/twitter.png';
+import twitter1 from '../assets/Images/About/twitter.svg';
 import playImg from '../assets/Images/About/Vec1.png';
 import coin from '../assets/Images/About/Vec2.png';
 import trade from '../assets/Images/About/Vec3.png';
+import mImag1 from '../assets/Images/About/About_m1.png';
+import mImag2 from '../assets/Images/About/About_m2.png';
+import mImag3 from '../assets/Images/About/About_m3.png';
+import mImag4 from '../assets/Images/About/About_m4.png';
 import factImg1 from '../assets/Images/About/About_f1.png';
 import factImg2 from '../assets/Images/About/About_f2.png';
 import factImg3 from '../assets/Images/About/About_f3.png';
@@ -18,9 +24,13 @@ import playEarn from '../assets/Images/About/joinDiscord.png';
 import upIcon from '../assets/Images/upIcon.png';
 import { makeStyles } from '@material-ui/core/styles';
 import { Grid } from '@material-ui/core';
+import Card from '@mui/material/Card';
+import CardMedia from '@mui/material/CardMedia';
+import CardContent from '@mui/material/CardContent';
 import { useMediaQuery } from 'react-responsive';
 import { Link } from 'react-router-dom';
 import Carousel from '../components/Carousel';
+import Typography from '@mui/material/Typography';
 
 export default function Store () {
   const classes = useStyles();
@@ -277,18 +287,83 @@ export default function Store () {
 
       <Grid container>
         <Grid item xs={1} md={1} sm={1}></Grid>
-        <Grid xs={10} sm={11} md={11} style={{marginBottom: '50px'}}>
-          
+        <Grid xs={10} sm={10} md={10} style={{marginBottom: '50px'}}>
+          <div className={!isTablet?classes.sevenTitle:!isMediumTablet?classes.sevenTabletTitle:!isMiddleTablet?classes.sevenMediumTitle:classes.sevenSmallTitle}>
+            WHO ARE THE TEAM?
+          </div>
+          <Grid item xs={10} container spacing={4}>
+            <Grid item xs={!isMiddleTablet?3:12}>
+              <Card>
+                <CardMedia component="img" image={mImag1} alt="mImag1" />
+                <CardContent style={{backgroundColor: '#2A2A2A'}}>
+                  <Typography gutterBottom variant="h5" component="div" style={{color: 'yellow', marginTop: '20px'}}>
+                    <i>DR.GASSED</i>
+                  </Typography>
+                  <Typography variant="body2" style={{color: 'white', height: '40px'}}>
+                    CEO/CTO - Founder, Business and Project Management
+                  </Typography>
+                  <img src={twitter} alt="twitter" style={{marginTop: '20px'}} />
+                </CardContent>
+              </Card>
+            </Grid>
+            <Grid item xs={!isMiddleTablet?3:12}>
+              <Card>
+                <CardMedia component="img" image={mImag2} alt="mImag2" />
+                <CardContent style={{backgroundColor: '#2A2A2A'}}>
+                  <Typography gutterBottom variant="h5" component="div" style={{color: 'yellow', marginTop: '20px'}}>
+                    <i>CAPTAIN GASSED</i>
+                  </Typography>
+                  <Typography variant="body2" style={{color: 'white', height: '40px'}}>
+                      CMO - Head of Marketing and PR
+                  </Typography>
+                  <img src={twitter} alt="twitter" style={{marginTop: '20px'}} />
+                </CardContent>
+              </Card>
+            </Grid>
+            <Grid item xs={!isMiddleTablet?3:12}>
+              <Card>
+                <CardMedia component="img" image={mImag3} alt="mImag3" />
+                <CardContent style={{backgroundColor: '#2A2A2A'}}>
+                  <Typography gutterBottom variant="h5" component="div" style={{color: 'yellow', marginTop: '20px'}}>
+                    <i>PROF. GASSED</i>
+                  </Typography>
+                  <Typography variant="body2" style={{color: 'white', height: '40px'}}>
+                    CDO - Head Artist and Creator of The New Resistance
+                  </Typography>
+                  <img src={twitter} alt="twitter" style={{marginTop: '20px'}} />
+                </CardContent>
+              </Card>
+            </Grid>
+            <Grid item xs={!isMiddleTablet?3:12}>
+              <Card>
+                <CardMedia component="img" image={mImag4} alt="mImag4" />
+                <CardContent style={{backgroundColor: '#2A2A2A'}}>
+                  <Typography gutterBottom variant="h5" component="div" style={{color: 'yellow', marginTop: '20px'}}>
+                    <i>queen GASSED</i>
+                  </Typography>
+                  <Typography variant="body2" style={{color: 'white', height: '40px'}}>
+                    Community Management
+                  </Typography>
+                  <img src={twitter1} alt="twitter1" style={{marginTop: '20px'}} />
+                </CardContent>
+              </Card>
+            </Grid>
+          </Grid>
         </Grid>
         <Grid xs={1} sm={1} md={1}></Grid>
       </Grid>
 
       <Grid className={classes.footerSection}>
-        <img src={logo} alt="logo" className={classes.logo}/>
-        <Grid item xs={12} className={!isMediumTablet?classes.footerLabel:!isSmallTablet?classes.footerLabelMedium:classes.footerLabelSmall}>
-          2021© The New Resistance
+        <Grid item xs={2}></Grid>
+        <Grid item xs={8}>
+          <Grid item xs={8}>
+            <img src={logo} alt="logo" className={classes.logo}/>
+          </Grid>
+          <Grid item xs={4}></Grid>
         </Grid>
+        <Grid item xs={2}></Grid>
       </Grid>
+
       <div onClick={toTop} className={classes.toTop}>
         <img src={upIcon} alt="upIcon" className={classes.upIcon}/>
       </div>
@@ -491,6 +566,45 @@ const useStyles = makeStyles({
     alignItems: 'center',
     marginTop: '5vw',
   },
+  sevenTitle: {
+    textTransform: 'uppercase',
+    color: '#f1ea39',
+    fontSize: '4rem',
+    marginTop: '5vw',
+    marginBottom: '40px',
+    textShadow: '0 0 60px rgb(255, 255, 0, 0.8)',
+    zIndex: 1,
+    textAlign: 'center'
+  },
+  sevenTabletTitle: {
+    textTransform: 'uppercase',
+    color: '#f1ea39',
+    fontSize: '3rem',
+    marginTop: '5vw',
+    textShadow: '0 0 60px rgb(255, 255, 0, 0.8)',
+    zIndex: 1,
+    textAlign: 'center',
+    marginBottom: '30px',
+  },
+  sevenMediumTitle: {
+    textTransform: 'uppercase',
+    color: '#f1ea39',
+    fontSize: '2rem',
+    marginTop: '5vw',
+    textShadow: '0 0 60px rgb(255, 255, 0, 0.8)',
+    zIndex: 1,
+    textAlign: 'center',
+    marginBottom: '20px',
+  },
+  sevenSmallTitle: {
+    textTransform: 'uppercase',
+    color: '#f1ea39',
+    fontSize: '1.5rem',
+    marginTop: '5vw',
+    textShadow: '0 0 60px rgb(255, 255, 0, 0.8)',
+    zIndex: 1,
+    textAlign: 'center'
+  },
   fifthTitle: {
     textTransform: 'uppercase',
     color: '#f1ea39',
@@ -590,7 +704,7 @@ const useStyles = makeStyles({
     marginTop: '20px'
   },
   footerSection: {
-    backgroundColor: 'grey',
+    backgroundColor: '#1D1D20',
     height: 340,
     color: 'white'
   },
