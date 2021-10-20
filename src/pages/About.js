@@ -10,7 +10,7 @@ import trade from '../assets/Images/About/Vec3.png';
 import factImg1 from '../assets/Images/About/About_f1.png';
 import factImg2 from '../assets/Images/About/About_f2.png';
 import factImg3 from '../assets/Images/About/About_f3.png';
-import userArt from '../assets/Images/About/Ilus.png';
+import userArt from '../assets/Images/About/Ilus1.png';
 import logo from '../assets/Images/logo.png';
 import phone from '../assets/Images/phone.png';
 import yesIWant from '../assets/Images/yesIWant.png';
@@ -58,7 +58,7 @@ export default function Store () {
           <Grid item xs={isMediumTablet?12:4} className={!isMediumTablet?classes.historyText:classes.historyTextMedium}>
             ★  NFT series launch<br/>
             ★  Open game beta<br/>
-            ★  Official merchandise 
+            ★  Official merchandise
           </Grid>
           <Grid item xs={isMediumTablet?12:4} className={!isMediumTablet?classes.historyText:classes.historyTextMedium}>
             ★  TNR game release<br/>
@@ -86,7 +86,7 @@ export default function Store () {
           <Grid item xs={12} className={!isMiddleTablet?classes.historyText:classes.historyTextMedium}>
             ★  NFT series launch<br/>
             ★  Open game beta<br/>
-            ★  Official merchandise 
+            ★  Official merchandise
           </Grid>
         </Grid>
         <Grid item xs={12} className={classes.cur}>
@@ -125,7 +125,7 @@ export default function Store () {
             <Grid item xs={!isMiddleTablet?4:12}>
               <img src={playImg} alt="playImg" className={!isMiddleTablet ? classes.futureImgMiddle : classes.futureImgSmall}/>
               <div className={!isTablet1201?classes.label:classes.labelMedium}>
-              Just. Don’t. Blink… 
+              Just. Don’t. Blink…
               </div>
               <Grid className={!isMiddleTablet ? classes.secondDesc : classes.secondSmallDesc}>
               Players develop and improve their individual skillset collecting equipment as they race across fully destructible maps from A-Z, always looking to reduce their time and make more gains.
@@ -170,7 +170,7 @@ export default function Store () {
         <Grid className={!isTablet?classes.thirdTitle:!isMediumTablet?classes.thirdTabletTitle:!isMiddleTablet?classes.thirdMediumTitle:classes.thirdSmallTitle} style={{top: '0%', marginTop: '2%'}} item xs={12}>
         The new Resistance FACTIONS
         </Grid>
-        <img src={wallBackground} alt="wallBackground" className={classes.thirdBack}/>
+        <img src={wallBackground} alt="wallBackground" className={classes.thirdBack} style={{height: '1000px'}}/>
         <Grid item xs={12} style={{zIndex: 1}} container>
           <Grid item xs={1}></Grid>
           <Grid item xs={10} container>
@@ -208,65 +208,85 @@ export default function Store () {
           <Grid item xs={1}></Grid>
         </Grid>
       </Grid>
-      <Grid className={classes.fourthSection}>
-        <Grid item xs={12} className={!isTablet?classes.fourthTitle:!isMediumTablet?classes.fourthTabletTitle:!isMiddleTablet?classes.fourthMediumTitle:classes.fourthSmallTitle}>
-        REFERRAL PROGRAM To win RARE TNR NFTS!
+
+      <Grid container style={{overflowX: 'hidden', marginTop: '10vw', position: 'relative'}}>
+        <Grid item xs={1} md={1} sm={1}></Grid>
+        <Grid item xs={11} md ={5} sm={5}>
+          <div className={!isTablet?classes.fourthTitle:!isMediumTablet?classes.fourthTabletTitle:!isMiddleTablet?classes.fourthMediumTitle:classes.fourthSmallTitle}>
+            REFERRAL PROGRAM To win <span style={{color: '#f1ea39'}}>RARE</span> TNR NFTS!
+          </div>
+          <div className={!isTablet?classes.fourthDesc:!isMediumTablet?classes.fourthTabletDesc:!isMiddleTablet?classes.fourthMediumDesc:classes.fourthSmallDesc}>
+           Join our Discord invite competition for a chance to in a rare TNR NFT!
+         </div>
+         <Link to="/NFTwaitinglist">
+           <img src={playEarn} alt="playEarn" className={classes.discord_btn}/>
+         </ Link>
         </Grid>
-        <Grid item xs={12} className={!isTablet?classes.fourthDesc:!isMediumTablet?classes.fourthTabletDesc:!isMiddleTablet?classes.fourthMediumDesc:classes.fourthSmallDesc}>
-        Join our Discord invite competition for a chance to in a rare TNR NFT!
+        <Grid item xs={12} md={5} sm={5}>
+          <img src={userArt} alt="userArt" className={!isTablet?classes.fourthImg:classes.fourthImgDesc} />
         </Grid>
-        <Link to="/NFTwaitinglist">
-          <img src={playEarn} alt="playEarn" className={classes.playEarn}/>
-        </Link>
-        <Grid item xs={12} className={!isTablet?classes.fourthImg:classes.fourthImgDesc}>
-          <img src={userArt} alt="userArt" className={classes.none}/>
-        </Grid>
+        <Grid item xs={1} md={1} sm={1}></Grid>
       </Grid>
-      
-      <Grid container className={[classes.fifthSection, classes.fifthSection_new]}>
-        <Grid className={!isTablet?classes.fifthTitle:!isMediumTablet?classes.fifthTabletTitle:!isMiddleTablet?classes.fifthMediumTitle:classes.fifthSmallTitle} item xs={12}>
-        Who are the new resistance?
-        </Grid>
-        <img src={cityBackground} alt="cityBackground" className={classes.background}/>
-        <Grid className={!isTablet?classes.fifthDesc:!isTablet1201?classes.fifthTabletDesc1201:!isMediumTablet?classes.fifthTabletDesc:!isMiddleTablet?classes.fifthMediumDesc:!isSmallTablet?classes.fifthMiddleDesc:classes.fifthSmallDesc}>
-          Driven by revolution, the New Resistance are 10,000 uniquely individual vigilantes. Distinguished by their relative strength, emotional intelligence and dynamic fluidity, they strive to overhaul the system from within. Inhabiting Krupt City, and free running across the city’s skyline, they fight the very embodiment of societal structure as enforced by the Crypto-Correctional Command AKA Triple C.
+
+      <Grid container className={classes.cityBackground} style={{backgroundImage: `url(${cityBackground})`}}>
+        <Grid item xs={1} md={1} sm={1}></Grid>
+        <Grid xs={11} sm={8} md={8} style={{marginBottom: '50px'}}>
+          <div className={!isTablet?classes.fifthTitle:!isMediumTablet?classes.fifthTabletTitle:!isMiddleTablet?classes.fifthMediumTitle:classes.fifthSmallTitle}>
+            The story
+          </div>
+          <div className={!isTablet?classes.fifthDesc:!isTablet1201?classes.fifthTabletDesc1201:!isMediumTablet?classes.fifthTabletDesc:!isMiddleTablet?classes.fifthMediumDesc:!isSmallTablet?classes.fifthMiddleDesc:classes.fifthSmallDesc}>
+            <p>
+            The New Resistance communicate via the Quasi-Net. Free-running leaked smart contracts, reports and messages to splinter-cells across the City, this information is shared to expose the CCC’s corruption to the masses. The only reward they attain is recognition within their own tightknit community. Their motivation is not monetary, it is momentum.
+            </p>
+            <p>Their true enemy is ignorance, their combatants are the heavily armed Triple C. Whether De-Coders, or Cyphers, their methods may differ, but their mission is certain – Resistance and Revolution.</p>
+            <p>The New Resistance was born of necessity; from a desire for revolution; and to free a society from the tyrannies of governmental restraint.</p>
+            <p>Already ahead of the curve, the New Resistance had invested where others feared – cryptocurrency. Now, using their huge amassed wealth, these renegades are facing down their “masters” for the good of all.</p>
+            <p>The corrupt government and institutions have outlawed blockchain /cryptocurrency, ending any hope of individual financial freedom for the masses. They control and monitor the internet through Minds-Eye, leaving nowhere safe online.</p>
+          </div>
         </Grid>
       </Grid>
 
-      <Grid className={[classes.sixthSection, classes.sixthSection_new]}>
-        <Grid item xs={12} className={!isTablet?classes.sixthTitle:!isMediumTablet?classes.sixthTabletTitle:!isMiddleTablet?classes.sixthMediumTitle:classes.sixthSmallTitle}>
-          GET THE NEW RESISTANCE NFT ON LAUNCH DAY
+      <Grid container className={[classes.sixthSection, classes.sixthSection_new]}>
+        <Grid item xs={12}>
+          <div className={!isTablet?classes.sixthTitle:!isMediumTablet?classes.sixthTabletTitle:!isMiddleTablet?classes.sixthMediumTitle:classes.sixthSmallTitle}>
+            GET OUR LIMITED NFTs ON LAUNCH DAY
+          </div>
+          <div className={!isTablet?classes.sixthDesc:!isMediumTablet?classes.sixthTabletDesc:!isMiddleTablet?classes.sixthMediumDesc:classes.sixthSmallDesc}>
+            Join 32,000+ Renegades waiting for our limited edition nft Drop
+          </div>
+          <Link to="/NFTwaitinglist">
+            <img src={yesIWant} alt="yesIWant" className={classes.yesIWant}/>
+          </Link>
         </Grid>
-        <Grid item xs={12} className={!isTablet?classes.sixthDesc:!isMediumTablet?classes.sixthTabletDesc:!isMiddleTablet?classes.sixthMediumDesc:classes.sixthSmallDesc}>
-          Join over 8,000 renegades on our waiting list.<br/>
-          Grab your limited edition NFT at mint price.
-        </Grid>
-        {/* <img src={yellowBackground} alt="yellowBackground" className={classes.background}/> */}
-        <div className={classes.background} style={{height: 600, backgroundColor: 'yellow'}} />
-        <Link to="/NFTwaitinglist">
-          <img src={yesIWant} alt="yesIWant" className={classes.yesIWant}/>
-        </Link>
       </Grid>
-      <Grid container className={[classes.thirdSection, classes.thirdSection_new]}>
-        <Grid className={!isTablet?classes.thirdTitle:!isMediumTablet?classes.thirdTabletTitle:!isMiddleTablet?classes.thirdMediumTitle:classes.thirdSmallTitle} item xs={12}>
-        KRUPT CITY
+
+      <Grid container className={classes.cityBackground} style={{backgroundImage: `url(${runnerBackground})`}}>
+        <Grid item xs={1} md={1} sm={1}></Grid>
+        <Grid xs={11} sm={8} md={8} style={{marginBottom: '50px'}}>
+          <div className={!isTablet?classes.fifthTitle:!isMediumTablet?classes.fifthTabletTitle:!isMiddleTablet?classes.fifthMediumTitle:classes.fifthSmallTitle}>
+            KRUPT CITY
+          </div>
+          <div className={!isTablet?classes.fifthDesc:!isTablet1201?classes.fifthTabletDesc1201:!isMediumTablet?classes.fifthTabletDesc:!isMiddleTablet?classes.fifthMediumDesc:!isSmallTablet?classes.fifthMiddleDesc:classes.fifthSmallDesc}>
+            <p>A neon-lit, yet still strangely dark, overburdening expanse of tall, faceless corporate buildings and factories, Krupt City spreads outwards from its epicentre – CCC HQ, with its tentacle like roads and railways grasping tightly at the urban desolate sprawl it encompasses.</p>
+            <p>Pocketed across this graveyard of existence are the oasis like New Resistance bolt-holes, their meeting places and hideaways, gloriously flamboyant, decoratively ornate and extravagant, yet camouflaged to be invisible to all but those who know.</p>
+            <p>Krupt City residents know only work and obedience. Their existence is a daily purgatory 9-5, chained to their master’s leash. Conformity and control are obligatory. Freedom has all but dissipated, and Minds-Eye is truly all seeing.</p>
+            <p>There remains only a last hope for change, The New Resistance.</p>
+          </div>
         </Grid>
-        <img src={runnerBackground} alt="runnerBackground" className={classes.background}/>
-        <Grid className={!isTablet?classes.thirdDesc:!isTablet1201?classes.thirdTabletDesc1201:!isMediumTablet?classes.thirdTabletDesc:!isMiddleTablet?classes.thirdMediumDesc:!isSmallTablet?classes.thirdMiddleDesc:classes.thirdSmallDesc}>
-        A neon-lit, yet still strangely dark, overburdening expanse of tall, faceless corporate buildings and factories, Krupt City spreads outwards from its epicentre – CCC HQ, with its tentacle like roads and railways grasping tightly at the urban desolate sprawl it encompasses.
-        <br /> <br />
-        Pocketed across this graveyard of existence are the oasis like New Resistance bolt-holes, their meeting places and hideaways, gloriously flamboyant, decoratively ornate and extravagant, yet camouflaged to be invisible to all but those who know.
-        <br /> <br />
-        Krupt City residents know only work and obedience. Their existence is a daily purgatory 9-5, chained to their master’s leash. Conformity and control are obligatory. Freedom has all but dissipated, and Minds-Eye is truly all seeing.
-        <br /> <br />
-        There remains only a last hope for change, The New Resistance.
+      </Grid>
+
+      <Grid container>
+        <Grid item xs={1} md={1} sm={1}></Grid>
+        <Grid xs={10} sm={11} md={11} style={{marginBottom: '50px'}}>
+          
         </Grid>
+        <Grid xs={1} sm={1} md={1}></Grid>
       </Grid>
 
       <Grid className={classes.footerSection}>
         <img src={logo} alt="logo" className={classes.logo}/>
         <Grid item xs={12} className={!isMediumTablet?classes.footerLabel:!isSmallTablet?classes.footerLabelMedium:classes.footerLabelSmall}>
-          2021© The New Resistance 
+          2021© The New Resistance
         </Grid>
       </Grid>
       <div onClick={toTop} className={classes.toTop}>
@@ -386,56 +406,85 @@ const useStyles = makeStyles({
   },
   fourthTitle: {
     textTransform: 'uppercase',
-    fontSize: '4rem',
-    color: 'white',
-    textShadow: '0 0 40px rgb(255, 255, 255, 0.8)',
-  },
-  fourthTabletTitle: {
-    textTransform: 'uppercase',
     fontSize: '3rem',
     color: 'white',
     textShadow: '0 0 40px rgb(255, 255, 255, 0.8)',
+    textAlign: 'left'
   },
-  fourthMediumTitle: {
+  fourthTabletTitle: {
     textTransform: 'uppercase',
     fontSize: '2rem',
     color: 'white',
     textShadow: '0 0 40px rgb(255, 255, 255, 0.8)',
+    textAlign: 'left'
   },
-  fourthSmallTitle: {
+  fourthMediumTitle: {
     textTransform: 'uppercase',
     fontSize: '1.5rem',
     color: 'white',
     textShadow: '0 0 40px rgb(255, 255, 255, 0.8)',
+    textAlign: 'left'
+  },
+  fourthSmallTitle: {
+    textTransform: 'uppercase',
+    fontSize: '1rem',
+    color: 'white',
+    textShadow: '0 0 40px rgb(255, 255, 255, 0.8)',
+    textAlign: 'left'
   },
   fourthDesc: {
     color: 'white',
-    fontSize: 30,
-    bottom: '45%'
+    fontSize: '1.5rem',
+    bottom: '45%',
+    textAlign: 'left',
+    fontFamily: 'Arial',
+    marginTop: '20px'
   },
   fourthTabletDesc: {
     color: 'white',
     fontSize: 18,
-    bottom: '45%'
+    bottom: '45%',
+    textAlign: 'left',
+    fontFamily: 'Arial',
+    marginTop: '20px'
   },
   fourthMediumDesc: {
     color: 'white',
     fontSize: 13,
-    bottom: '45%'
+    bottom: '45%',
+    textAlign: 'left',
+    fontFamily: 'Arial',
+    marginTop: '20px'
   },
   fourthSmallDesc: {
     color: 'white',
     fontSize: 8,
-    bottom: '40%'
+    bottom: '40%',
+    textAlign: 'left',
+    fontFamily: 'Arial',
+    marginTop: '20px'
+  },
+  discord_btn: {
+    right: '40%',
+    marginTop: '20px',
+    marginLeft: '-25px',
+    bottom: '0%',
+    float: 'left',
+    '&:hover': {
+      transform: 'scale(1.25)'
+    }
   },
   fourthImg: {
-    position: 'absolute',
     bottom: 0,
     right: 0,
-    height: '30vw',
+    height: 'auto',
+    width: '100%'
   },
-  fourthImgSmall: {
-
+  fourthImgDesc: {
+    bottom: 0,
+    right: 0,
+    height: 'auto',
+    width: '100%'
   },
   fifthSection: {
     position: 'relative',
@@ -449,6 +498,7 @@ const useStyles = makeStyles({
     marginTop: '5vw',
     textShadow: '0 0 60px rgb(255, 255, 0, 0.8)',
     zIndex: 1,
+    textAlign: 'left'
   },
   fifthBack: {
     position: 'absolute',
@@ -463,6 +513,7 @@ const useStyles = makeStyles({
     marginTop: '5vw',
     textShadow: '0 0 60px rgb(255, 255, 0, 0.8)',
     zIndex: 1,
+    textAlign: 'left'
   },
   fifthMediumTitle: {
     textTransform: 'uppercase',
@@ -471,6 +522,7 @@ const useStyles = makeStyles({
     marginTop: '5vw',
     textShadow: '0 0 60px rgb(255, 255, 0, 0.8)',
     zIndex: 1,
+    textAlign: 'left'
   },
   fifthSmallTitle: {
     textTransform: 'uppercase',
@@ -479,16 +531,37 @@ const useStyles = makeStyles({
     marginTop: '5vw',
     textShadow: '0 0 60px rgb(255, 255, 0, 0.8)',
     zIndex: 1,
+    textAlign: 'left'
   },
+  // cityBackground: {
+  //   backgroundImage: url('../assets/Images/About/About_Back3.png'),
+  // },
   fifthDesc: {
     fontSize: '1.5rem',
     color: 'white',
     fontFamily: 'Arial',
     lineHeight: '30px',
-    width: '80%',
     margin: 'auto',
-    marginTop: '42vw',
-    zIndex: 1
+    zIndex: 1,
+    textAlign: 'left'
+  },
+  fifthTabletDesc1201: {
+    fontSize: '1.5rem',
+    color: 'white',
+    fontFamily: 'Arial',
+    lineHeight: '30px',
+    margin: 'auto',
+    zIndex: 1,
+    textAlign: 'left',
+  },
+  fifthSmallDesc: {
+    fontSize: '1.5rem',
+    color: 'white',
+    fontFamily: 'Arial',
+    lineHeight: '30px',
+    margin: 'auto',
+    zIndex: 1,
+    textAlign: 'left',
   },
   fifthNewDesc: {
     fontSize: '1.5rem',
@@ -505,6 +578,16 @@ const useStyles = makeStyles({
     color: 'white',
     fontFamily: 'Arial',
     lineHeight: '30px',
+  },
+  sixthSection: {
+    backgroundColor: 'yellow',
+    padding: '50px 0'
+  },
+  sixthTitle: {
+    fontSize: '4rem'
+  },
+  sixthDesc: {
+    marginTop: '20px'
   },
   footerSection: {
     backgroundColor: 'grey',
@@ -768,7 +851,7 @@ const useStyles = makeStyles({
   yesIWant: {
     // marginTop: '-20%',
     width: '20%',
-    position: 'absolute',
+    marginTop: '50px',
     right: '40%',
     bottom: '13%',
     '&:hover': {
