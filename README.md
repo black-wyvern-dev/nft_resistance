@@ -1,8 +1,28 @@
-# Getting Started with Create React App
+# Technical Notes
+
+**Decimals & OrcaU64**
+
+The SDK relies on the use of [Decimal](https://github.com/MikeMcl/decimal.js/) for number inputs and Decimal/[OrcaU64](https://github.com/orca-so/typescript-sdk/blob/main/src/public/utils/orca-u64.ts) for token-value inputs. If a Decimal instance is provided for a token-value input, it will be automatically transformed to the token's scale.
+
+**Features Coming Soon**
+
+- More trader information (APY, Volume)
+
+# Running React Tracking Test App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Installation
+
+Use your environment's package manager to install @orca-so/sdk and other related packages into your project.
+
+```bash
+yarn add @orca-so/sdk @solana/web3.js decimal.js
+```
+
+```bash
+npm install @orca-so/sdk @solana/web3.js decimal.js
+```
 
 In the project directory, you can run:
 
